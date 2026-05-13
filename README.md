@@ -37,8 +37,9 @@ A full stack web application to track personal income and expenses with real-tim
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.10+
-- Node.js 18+
+- Python 3.12.8
+- Node.js 20.x
+- npm 10.x
 
 ### 1. Clone the repository
 ```bash
