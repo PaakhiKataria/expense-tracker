@@ -52,7 +52,10 @@ cd expense-tracker
 cd backend
 python -m venv venv
 venv\Scripts\activate
-pip install fastapi uvicorn sqlalchemy python-jose passlib bcrypt python-multipart
+# Option 1: Install from requirements.txt
+pip install -r requirements.txt
+# Option 2: Install manually
+pip install fastapi uvicorn sqlalchemy python-jose passlib bcrypt==4.0.1 python-multipart
 uvicorn main:app --reload
 ```
 
