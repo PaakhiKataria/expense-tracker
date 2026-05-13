@@ -2,6 +2,12 @@
 
 A full stack web application to track personal income and expenses with real-time charts and analytics.
 
+## 🌐 Live Demo
+
+[Live App](https://expense-tracker-three-olive-32.vercel.app)
+
+Backend API: https://expense-tracker-api-sznx.onrender.com/docs
+
 ## 📸 Screenshots
 ![Login](screenshots/login.png)
 ![Dashboard](screenshots/dashboard.png)
